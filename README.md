@@ -1,4 +1,3 @@
-# KattisProblem
 using System;
 
 namespace TimeLoop1
