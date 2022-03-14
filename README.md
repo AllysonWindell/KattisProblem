@@ -1,3 +1,7 @@
+//Name: Allyson Windell
+Date: 3/13/2022
+Description: Stuck in a time loop//
+
 using System;
 
 namespace TimeLoop1
